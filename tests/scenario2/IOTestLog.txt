@@ -1,0 +1,24 @@
+Number 3 with 30 tickets has started 421 pid at Sat Dec 24 02:24:45 2016
+
+Number 3 with 30 tickets pid 421: finished Sat Dec 24 02:24:52 2016
+
+Number 2 with 14 tickets has started 420 pid at Sat Dec 24 02:24:45 2016
+
+Number 2 with 14 tickets pid 420: finished Sat Dec 24 02:24:54 2016
+
+Number 1 with 3 tickets has started 419 pid at Sat Dec 24 02:24:46 2016
+
+Number 1 with 3 tickets pid 419: finished Sat Dec 24 02:24:58 2016
+
+Number 3 with 30 tickets has started 427 pid at Sat Dec 24 02:25:38 2016
+
+Number 3 with 30 tickets pid 427: finished Sat Dec 24 02:25:44 2016
+
+Number 2 with 14 tickets has started 426 pid at Sat Dec 24 02:25:37 2016
+
+Number 2 with 14 tickets pid 426: finished Sat Dec 24 02:25:48 2016
+
+Number 1 with 3 tickets has started 425 pid at Sat Dec 24 02:25:36 2016
+
+Number 1 with 3 tickets pid 425: finished Sat Dec 24 02:25:50 2016
+

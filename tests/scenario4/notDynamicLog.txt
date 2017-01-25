@@ -1,0 +1,24 @@
+CPU BOUND with initially 20 tickets pid 359 started at Wed Dec 21 19:21:08 2016
+
+CPU BOUND with initial 20 tickets:359 has finished at Wed Dec 21 19:21:25 2016
+
+IO BOUND with initially 10 tickets pid 358: started at Wed Dec 21 19:21:08 2016
+
+IO BOUND with initially 10 tickets pid 358: finished at : Wed Dec 21 19:21:34 2016
+
+CPU BOUND with initially 20 tickets pid 364 started at Wed Dec 21 19:21:46 2016
+
+CPU BOUND with initial 20 tickets:364 has finished at Wed Dec 21 19:22:04 2016
+
+IO BOUND with initially 10 tickets pid 363: started at Wed Dec 21 19:21:46 2016
+
+IO BOUND with initially 10 tickets pid 363: finished at : Wed Dec 21 19:22:12 2016
+
+CPU BOUND with initially 20 tickets pid 367 started at Wed Dec 21 19:22:18 2016
+
+CPU BOUND with initial 20 tickets:367 has finished at Wed Dec 21 19:22:38 2016
+
+IO BOUND with initially 10 tickets pid 366: started at Wed Dec 21 19:22:19 2016
+
+IO BOUND with initially 10 tickets pid 366: finished at : Wed Dec 21 19:22:46 2016
+

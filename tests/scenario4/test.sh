@@ -1,0 +1,2 @@
+./io.exe &
+./cpubound.exe &

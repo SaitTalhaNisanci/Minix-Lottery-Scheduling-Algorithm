@@ -1,0 +1,12 @@
+Number 1 pid 1159: finished ;Running time: 1.880000
+Number 3 pid 1161: finished ;Running time: 2.000000
+Number 2 pid 1160: finished ;Running time: 1.940000
+Number 1 pid 1165: finished ;Running time: 1.710000
+Number 3 pid 1167: finished ;Running time: 1.820000
+Number 2 pid 1166: finished ;Running time: 1.880000
+Number 2 pid 1171: finished ;Running time: 1.730000
+Number 3 pid 1172: finished ;Running time: 1.960000
+Number 1 pid 1170: finished ;Running time: 1.940000
+Number 1 pid 1174: finished ;Running time: 1.770000
+Number 2 pid 1175: finished ;Running time: 1.670000
+Number 3 pid 1176: finished ;Running time: 1.810000

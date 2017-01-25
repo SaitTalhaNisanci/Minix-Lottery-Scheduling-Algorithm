@@ -1,0 +1,24 @@
+Number 3 with 27 tickets 454 has started at Sat Dec 24 02:31:49 2016
+
+Number 3 with 27 tickets:454 has finished at Sat Dec 24 02:32:04 2016
+
+Number 2 with 15 tickets 453 has started at Sat Dec 24 02:31:48 2016
+
+Number 2 with 15 tickets:453 has finished at Sat Dec 24 02:32:07 2016
+
+Number 1 with 5 tickets 452 has started at Sat Dec 24 02:31:49 2016
+
+Number 1 with 5 tickets:452 has finished at Sat Dec 24 02:32:14 2016
+
+Number 3 with 27 tickets 458 has started at Sat Dec 24 02:32:29 2016
+
+Number 3 with 27 tickets:458 has finished at Sat Dec 24 02:32:41 2016
+
+Number 2 with 15 tickets 457 has started at Sat Dec 24 02:32:28 2016
+
+Number 2 with 15 tickets:457 has finished at Sat Dec 24 02:32:48 2016
+
+Number 1 with 5 tickets 456 has started at Sat Dec 24 02:32:29 2016
+
+Number 1 with 5 tickets:456 has finished at Sat Dec 24 02:32:55 2016
+

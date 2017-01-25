@@ -1,0 +1,6 @@
+Number 3:1234 has finished ; Running time: 2.620000
+Number 2:1233 has finished ; Running time: 2.630000
+Number 1:1232 has finished ; Running time: 2.630000
+Number 1:1238 has finished ; Running time: 2.620000
+Number 3:1240 has finished ; Running time: 2.610000
+Number 2:1239 has finished ; Running time: 2.640000
